@@ -1,0 +1,58 @@
+#wind {
+	height:550px;
+	width:100%;
+}
+#head{
+	background-image: url("../IMG/bg2.jpg");
+	font-family: verdana;
+	font-size: 12pt;
+	color: white;
+	width: 100%;
+}
+#foot{
+	background-image: url("../IMG/bg2.jpg");
+	font-family: verdana;
+	font-size: 8pt;
+	color: white;
+	width: 100%;
+}
+#right {
+	background-image: url("../IMG/bg2.jpg");
+	font-family: verdana;
+	text-align: center;
+	font-size: 10pt;
+	color: white;
+	height:550px;
+	width:100%;
+	padding: 15px;
+
+}#imag{
+	border-radius: 150px;
+}
+button {
+  background-color:  #38B5C8 ;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 15%;
+  border-radius: 9px;
+
+}
+button {
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #e6b581; 
+  color: white;
+}
+table {
+  border-collapse: collapse;
+}
+table, tr, td {
+  border: 0px;
+}
